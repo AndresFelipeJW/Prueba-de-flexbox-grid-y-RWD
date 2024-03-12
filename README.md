@@ -1,3 +1,5 @@
+# BARRA DE NAVEGACION 
+![ANDRES](/img/barra%20de%20navegacion.png "ANDRES")
 # AREA DE PRESENTACION
 ![ANDRES](/img/area%20de%20presentacion%20.png "ANDRES")
 # AREA ITERMEDIA 
